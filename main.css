@@ -1,0 +1,50 @@
+/* selector por tag */
+h1 {
+    color: rgb(249, 90, 27);
+}
+h2 {
+    color: blue;
+}
+h3 {
+    color: blue;
+}
+h4 {
+    color: blue;
+}
+h5 {
+    color: blue;
+}
+article {
+    color: aqua;
+}
+ul {
+    color: rgb(209, 26, 26);
+}
+header p {
+    color: darkorange;
+}
+article h2 {
+    color: midnightblue;
+}
+
+/* selector por clases */
+
+.titulo2 {
+    color: aquamarine;
+}
+.titulo3 {
+    color: chartreuse;
+}
+.titulo4 {
+    color: cyan;
+}
+.titulo5 {
+    color: darkgreen;
+}
+.titulo6 {
+    color: darkseagreen;
+}
+.text {
+    font-size: 6rem;
+    font-style: italic;
+}
